@@ -1,11 +1,15 @@
-# Godot Custom Gradient Texture
+# Maths Vs Robots (2D game)
 
-A simple resource for the godot game engine that allows to create linear, radial and rectangular gradient textures unlike the the build-in gradient texture (at this point of time).
+A 2D Maths educational game I made using Godot Game Engine
 
-##### Note:
+Can be played online here : 
 
-- The gradient color doesn't update in the editor due to some issues but the texture can be updated manually by changing one of the other settings or by clicken to the "Click To Update Texture" property in the inspector (See below).
-- generating big textures can take 2-3 seconds
+https://www.newgrounds.com/portal/view/837314
 
-## How to create and use the texture:
-![See info.jpg](/assets/maujoe.custom_gradient_texture/info.jpg)
+Can be downloaded from here :
+
+https://ahmed-mo2nis.itch.io/maths-vs-robots
+
+complete source code is here (since I don't upload to github anymore) :
+
+
